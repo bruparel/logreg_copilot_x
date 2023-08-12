@@ -1,0 +1,4 @@
+Number of missing values: 0
+Percentage of female applicants that had their loan approved: 32.65%
+Average income of all applicants: 5403.69
+Average income of all self-employed applicants: 7828.17
